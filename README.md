@@ -2,7 +2,7 @@
 Applicatin de gestion de parc d'automate
 Année universitaire 2022-2023
 Ingénieur Informatique
-Rapport de devoir
+
 Programmation Web Avancée
 
 Étudiants :
@@ -11,6 +11,7 @@ Chloé Hamilcaro
 
 Enseignant :
 M. Benoit VillaI. OUTILS ET TECHNOLOGIES
+
 
 Nous avons effectué ce projet à l’aide de l’environnement de développement Eclipse, sur
 lequel nous avons utilisé l’ensemble de bibliothèques logicielles JDK 11. Nous avons utilisé
